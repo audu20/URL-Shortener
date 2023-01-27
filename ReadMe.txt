@@ -3,7 +3,7 @@ ProjectName-URL Shortener-
 
 
 Aim of Our Project :
--Is to make URL easier and short.
+- To make URL easier and short.
  
 #######Required Libraries for our project######
 
